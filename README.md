@@ -3,7 +3,7 @@ Hello everyone! Welcome to my GitHub profile.
 # Sentiment-Analysis-Based-on-Twitter-User-s-Tweet
 ---
 
-The aim of this project is to analyze sentiment analysis
+The aim of this project is to analyze sentiment from twitter user's tweets using Natural Language Processing to identify the connotation.
 
 You can get the dataset I used for this project [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
